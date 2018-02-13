@@ -1,0 +1,8 @@
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\bin\Debug\netstandard1.4\Logic.deps.json
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\bin\Debug\netstandard1.4\Logic.dll
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\bin\Debug\netstandard1.4\Logic.pdb
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\obj\Debug\netstandard1.4\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\obj\Debug\netstandard1.4\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\obj\Debug\netstandard1.4\Logic.AssemblyInfo.cs
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\obj\Debug\netstandard1.4\Logic.dll
+C:\Users\Asus\source\repos\SoftArch1\SoftArch1\obj\Debug\netstandard1.4\Logic.pdb

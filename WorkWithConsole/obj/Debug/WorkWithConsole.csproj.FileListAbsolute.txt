@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\bin\Debug\WorkWithConsole.exe.config
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\bin\Debug\WorkWithConsole.exe
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\bin\Debug\WorkWithConsole.pdb
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\bin\Debug\Logic.dll
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\bin\Debug\Logic.pdb
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\obj\Debug\WorkWithConsole.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\obj\Debug\WorkWithConsole.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\obj\Debug\WorkWithConsole.exe
+C:\Users\Asus\source\repos\SoftArch1\WorkWithConsole\obj\Debug\WorkWithConsole.pdb
